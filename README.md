@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Nguyen Tuan Khiem
-* ID: BI12-210
+* Name: Pham Ngoc Huy
+* ID: BI12-197
 * Group ID: 12
 * Project Name: Real Estate Listings Website
